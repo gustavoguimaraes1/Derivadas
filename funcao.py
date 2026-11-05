@@ -1,4 +1,4 @@
 # f(x)
 def funcao(x):
-    return x**2 - 6
+    return abs(x - 1)
 
